@@ -10,7 +10,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 
 public class AppGlobals {
 
-    public static final String MAPBOX_ACCESS_CODE = "pk.eyJ1IjoibW96aWxsYS13ZWJwcm9kIiwiYSI6ImNqMml4MXNhaTAwMjgzM28yYXRqbjlmZmkifQ.OfL6NY7noQth9mbbN_tDbA";
+    public static final String MAPBOX_ACCESS_CODE = "pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4M29iazA2Z2gycXA4N2pmbDZmangifQ.-g_vE53SD2WrJ6tFX7QHmA";
     public static final String MAPBOX_LAYER_TYPE = "mapbox.streets";
     public static final String[] MAPBOX_TILE_URLS = new String[]{
             "http://a.tiles.mapbox.com/v4/" + AppGlobals.MAPBOX_LAYER_TYPE + "/",
